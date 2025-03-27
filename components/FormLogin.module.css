@@ -1,0 +1,23 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    max-width: 20rem;
+}
+
+.form label {
+    display: flex;
+    flex-direction: column;
+}
+
+.form input {
+    padding: .5rem;
+}
+
+.form button {
+    padding: .5rem;
+}
+
+.erreur {
+    color: #a00;
+}

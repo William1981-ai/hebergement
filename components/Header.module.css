@@ -1,0 +1,23 @@
+.header {
+    background-color: #ffa3ce;
+    padding: 1rem;
+}
+
+.header img {
+    width: 5rem;
+    height: auto;
+}
+
+.header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.header a {
+    display: block;
+    padding: .5rem;
+}

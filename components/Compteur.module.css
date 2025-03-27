@@ -1,0 +1,15 @@
+.compteur {
+    display: flex;
+    flex-direction: column;
+    max-width: 8rem;
+}
+
+.compteur span {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.compteur button {
+    padding: 1rem;
+}
